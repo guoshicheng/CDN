@@ -136,7 +136,8 @@
 	margin-bottom:10px;
 	overflow:hidden;
 	position:relative;
-	padding:10px
+	padding:10px;
+	background-color: #2a2c2f
 }
 .v[data-class=v] .vwrap input {
 	background:transparent
